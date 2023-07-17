@@ -19,4 +19,9 @@ In the DNS, a new CNAME record is created with ELB DNS endpoint configured.
 
 For Autoscaling, a new launch configuration is created and an Autoscaling group is set up as per the load.
 
+Following is the architecture implemented.
+
+![image](https://github.com/Rohit061199/devopsproject-liftAndshift/assets/73810251/b978d458-3be9-4dcd-a951-c3214ef92f12)
+
+
 Source Code can be downloaded from: https://github.com/hkhcoder/vprofile-project/tree/main/src
