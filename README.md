@@ -18,3 +18,5 @@ A new Target group is created with the instances. A new ELB is launched with the
 In the DNS, a new CNAME record is created with ELB DNS endpoint configured.
 
 For Autoscaling, a new launch configuration is created and an Autoscaling group is set up as per the load.
+
+Source Code can be downloaded from: https://github.com/hkhcoder/vprofile-project/tree/main/src
